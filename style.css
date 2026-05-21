@@ -1,0 +1,33 @@
+
+a{
+    
+    text-decoration:none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    display:block;
+    gap:100px;
+    letter-spacing:02px;
+  
+    
+
+}
+#table4 td{
+    padding-right: 20px;
+}
+    
+#table2
+{
+    width: 100%;
+    vertical-align:top;
+    font-size: 20px;
+    padding-right:50px;
+    padding-left: 50px;
+    
+
+}
+#table8{
+    padding-left:10px;
+}
+#table4{
+    width: 100%;
+}
